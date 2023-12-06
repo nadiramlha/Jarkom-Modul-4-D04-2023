@@ -15,6 +15,7 @@ Keterangan: Bila di CPT menggunakan VLSM, maka di GNS3 menggunakan CIDR atau seb
 ### Topologi
 Cisco Packet Tracer
 ![Screenshot 2023-12-06 173130](https://github.com/nadiramlha/Jarkom-Modul-4-D04-2023/assets/88009253/04fe3987-15be-4a71-9150-d474be54804c)
+
 Berikut Merupakan tree VLSM
 ![Jarkom4 (4) - Nadiramilhanf](https://github.com/nadiramlha/Jarkom-Modul-4-D04-2023/assets/88009253/d622db16-9e82-4cf0-a0f1-37cab6361d32)
 ### Pembagian IP
