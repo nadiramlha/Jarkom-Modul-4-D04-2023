@@ -479,13 +479,13 @@ route add -net 0.0.0.0 netmask 0.0.0.0 gw 192.193.0.1
 ```
 
 Berikut adalah video DEMO 
-Testing berupa melakukan ping pada :
-Sein - Richter
-GranzChannel - Turk Region
-RiegelCanyon - Aura
-Fern - Linie
-RoyalCapital - LaubHills
-Heiter - Denken
-SchwerMountains - Lugner
+- Testing berupa melakukan ping pada :
+- Sein - Richter
+- GranzChannel - Turk Region
+- RiegelCanyon - Aura
+- Fern - Linie
+- RoyalCapital - LaubHills
+- Heiter - Denken
+- SchwerMountains - Lugner
 Link drive video : https://drive.google.com/file/d/10WvhPthwa2SKIA2pUfAyuI6AIV3fk3mG/view
 
