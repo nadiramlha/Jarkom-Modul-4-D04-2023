@@ -250,9 +250,13 @@ Berikut Merupakan tree VLSM
   ```
 ### Testing
 Testing pada :
+
 Sein - Richter
+
 GranzChannel - Turk Region
+
 RiegelCanyon - Aura
+
 ![Screenshot 2023-12-06 215416](https://github.com/nadiramlha/Jarkom-Modul-4-D04-2023/assets/88009253/5c32a330-4d3d-4f72-94c6-8a01e31eb4db)
 ## CIDR
 
